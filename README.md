@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Top-k vector search: one query, ranked by similarity #Shorts](https://www.youtube.com/shorts/k0YXFkmGQAM)
 - [How a graph walk works in HelixDB #Shorts](https://www.youtube.com/shorts/ERM1-ZOQ8uE)
 - [Walking the graph: how a graph query traverses nodes and edges #shortsvideo](https://www.youtube.com/shorts/IF78fZ7gZ_c)
 - [Pragmatic AI Labs Sovereign AI stack](https://www.youtube.com/watch?v=ZFWmPBYPyzA)
 - [APR Chat Demo](https://www.youtube.com/watch?v=BEsKT-dcbeE)
 - [Building Live Pong Game with Embedded .APR Models 📱](https://www.youtube.com/watch?v=Nv32meSHuQo)
 - [Building Live Pong Game with Embedded .APR Models](https://www.youtube.com/watch?v=MoQ-kiOm57Q)
-- [ELO Ratings Questions](https://www.youtube.com/watch?v=7hkQH_gdZuw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
