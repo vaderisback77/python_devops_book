@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Production ML in pure Rust: the sovereign AI stack #Shorts](https://www.youtube.com/shorts/q9xomqHt3vo)
-- [Rows, graphs and vectors in one engine #Shorts](https://www.youtube.com/shorts/4STWHC7vGRY)
-- [Rows, graphs and vectors in one engine #Shorts](https://www.youtube.com/shorts/tD-lERsLKUI)
-- [Top-k vector search: one query, ranked by similarity #Shorts](https://www.youtube.com/shorts/k0YXFkmGQAM)
-- [How a graph walk works in HelixDB #Shorts](https://www.youtube.com/shorts/ERM1-ZOQ8uE)
-- [Walking the graph: how a graph query traverses nodes and edges #shortsvideo](https://www.youtube.com/shorts/IF78fZ7gZ_c)
-- [Pragmatic AI Labs Sovereign AI stack](https://www.youtube.com/watch?v=ZFWmPBYPyzA)
+- [Check a model's license before you build #Shorts](https://www.youtube.com/shorts/0VEgzJtbeyI)
+- [Parallel hyperparameter tuning with HyperOpt #Shorts](https://www.youtube.com/shorts/iON3guOZm70)
+- [Schema drift: catch changing data early #Shorts](https://www.youtube.com/shorts/jX1cyPgwYt8)
+- [Verify agent work: cheapest check first #Shorts](https://www.youtube.com/shorts/WWdAlg7aFYk)
+- [Why ten AI agents beat one answer: quorum fan-out #Shorts](https://www.youtube.com/shorts/G4ZNxzlrBN0)
+- [Clip: MCP lesson 1.4 certainty or scope](https://www.youtube.com/watch?v=gRQfNzc5ung)
+- [Daily: MCP lesson 1.2 PMAT context for your agent](https://www.youtube.com/watch?v=RVULh_mEi7E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
