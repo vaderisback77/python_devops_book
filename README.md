@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Clip: MCP lesson 1.8 six metrics that grade agent code](https://www.youtube.com/watch?v=ZJR5lxFZft0)
+- [Daily: MCP lesson 1.7 languages that survive](https://www.youtube.com/watch?v=WRoZ0vDf4Iw)
+- [Clip: MCP lesson 1.6 inside the MCP handshake to tool call](https://www.youtube.com/watch?v=nPWQ_Wv4AOk)
+- [Daily: MCP lesson 1.5 agents as state machines](https://www.youtube.com/watch?v=TXUIRWwUNJw)
 - [Check a model's license before you build #Shorts](https://www.youtube.com/shorts/0VEgzJtbeyI)
 - [Parallel hyperparameter tuning with HyperOpt #Shorts](https://www.youtube.com/shorts/iON3guOZm70)
 - [Schema drift: catch changing data early #Shorts](https://www.youtube.com/shorts/jX1cyPgwYt8)
-- [Verify agent work: cheapest check first #Shorts](https://www.youtube.com/shorts/WWdAlg7aFYk)
-- [Why ten AI agents beat one answer: quorum fan-out #Shorts](https://www.youtube.com/shorts/G4ZNxzlrBN0)
-- [Clip: MCP lesson 1.4 certainty or scope](https://www.youtube.com/watch?v=gRQfNzc5ung)
-- [Daily: MCP lesson 1.2 PMAT context for your agent](https://www.youtube.com/watch?v=RVULh_mEi7E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
