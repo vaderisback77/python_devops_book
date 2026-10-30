@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Pick a model fast: the GitHub Models marketplace #Shorts](https://www.youtube.com/shorts/rKFHjUgRN0Y)
+- [The gate decides: pass or stop #Shorts](https://www.youtube.com/shorts/48BB4VOPa-U)
+- [Polars or pandas? Pick your DataFrame engine #Shorts](https://www.youtube.com/shorts/iq6J3tmpP3Y)
+- [Bronze, silver, gold: the medallion architecture #Shorts](https://www.youtube.com/shorts/uQKw8LpE1yU)
+- [Guard the write path: validate data on the way in #Shorts](https://www.youtube.com/shorts/4nM6mInsow4)
 - [Clip: MCP lesson 1.8 six metrics that grade agent code](https://www.youtube.com/watch?v=ZJR5lxFZft0)
 - [Daily: MCP lesson 1.7 languages that survive](https://www.youtube.com/watch?v=WRoZ0vDf4Iw)
-- [Clip: MCP lesson 1.6 inside the MCP handshake to tool call](https://www.youtube.com/watch?v=nPWQ_Wv4AOk)
-- [Daily: MCP lesson 1.5 agents as state machines](https://www.youtube.com/watch?v=TXUIRWwUNJw)
-- [Check a model's license before you build #Shorts](https://www.youtube.com/shorts/0VEgzJtbeyI)
-- [Parallel hyperparameter tuning with HyperOpt #Shorts](https://www.youtube.com/shorts/iON3guOZm70)
-- [Schema drift: catch changing data early #Shorts](https://www.youtube.com/shorts/jX1cyPgwYt8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
