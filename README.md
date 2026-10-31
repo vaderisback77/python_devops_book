@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Functional tests: run the app, check the reply #Shorts](https://www.youtube.com/shorts/tLliYT8d9X8)
+- [Schema drift: catch changing data early #Shorts](https://www.youtube.com/shorts/_lLICAyFyyQ)
+- [Lock down GitHub with 2FA and backup keys #Shorts](https://www.youtube.com/shorts/cJ2gjuGof3c)
+- [Open SQLite in memory: when to use it #Shorts](https://www.youtube.com/shorts/48XMtVpdN-c)
+- [Push or pull? Pick your monitoring strategy #Shorts](https://www.youtube.com/shorts/_gk09BqxeWE)
 - [Pick a model fast: the GitHub Models marketplace #Shorts](https://www.youtube.com/shorts/rKFHjUgRN0Y)
 - [The gate decides: pass or stop #Shorts](https://www.youtube.com/shorts/48BB4VOPa-U)
-- [Polars or pandas? Pick your DataFrame engine #Shorts](https://www.youtube.com/shorts/iq6J3tmpP3Y)
-- [Bronze, silver, gold: the medallion architecture #Shorts](https://www.youtube.com/shorts/uQKw8LpE1yU)
-- [Guard the write path: validate data on the way in #Shorts](https://www.youtube.com/shorts/4nM6mInsow4)
-- [Clip: MCP lesson 1.8 six metrics that grade agent code](https://www.youtube.com/watch?v=ZJR5lxFZft0)
-- [Daily: MCP lesson 1.7 languages that survive](https://www.youtube.com/watch?v=WRoZ0vDf4Iw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
