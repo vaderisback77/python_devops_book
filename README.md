@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Rust development environment setup and Cargo tooling](https://www.youtube.com/watch?v=-rQJvIHyYNs)
+- [Create and configure GitHub Codespaces for Rust development](https://www.youtube.com/watch?v=YxxS9YYlFrM)
+- [Install Rust and Cargo via rustup on Linux and macOS](https://www.youtube.com/watch?v=-eZhufkqyLk)
+- [Rust Analyzer hover, autocomplete, and error diagnostics in VS Code](https://www.youtube.com/watch?v=ESbLgIvGd84)
+- [Install and enable Rust Analyzer in VS Code](https://www.youtube.com/watch?v=m-aIWUdA6nY)
+- [Visual Studio Code setup and workspace navigation for Rust](https://www.youtube.com/watch?v=lB5NJLogiw4)
 - [Functional tests: run the app, check the reply #Shorts](https://www.youtube.com/shorts/tLliYT8d9X8)
-- [Schema drift: catch changing data early #Shorts](https://www.youtube.com/shorts/_lLICAyFyyQ)
-- [Lock down GitHub with 2FA and backup keys #Shorts](https://www.youtube.com/shorts/cJ2gjuGof3c)
-- [Open SQLite in memory: when to use it #Shorts](https://www.youtube.com/shorts/48XMtVpdN-c)
-- [Push or pull? Pick your monitoring strategy #Shorts](https://www.youtube.com/shorts/_gk09BqxeWE)
-- [Pick a model fast: the GitHub Models marketplace #Shorts](https://www.youtube.com/shorts/rKFHjUgRN0Y)
-- [The gate decides: pass or stop #Shorts](https://www.youtube.com/shorts/48BB4VOPa-U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
