@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Rust ownership: one move, one free #Shorts](https://www.youtube.com/shorts/eHWGuq6KaC4)
+- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=pSV6beho9LE)
+- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=r-RQN3Kh8vI)
+- [Parquet reads less: columns and row groups #Shorts](https://www.youtube.com/shorts/7bkHxBcAKCE)
+- [Event, CDC, real time: trigger your pipeline #Shorts](https://www.youtube.com/shorts/uvZGVuyI3Ws)
 - [Rust development environment setup and Cargo tooling](https://www.youtube.com/watch?v=-rQJvIHyYNs)
 - [Create and configure GitHub Codespaces for Rust development](https://www.youtube.com/watch?v=YxxS9YYlFrM)
-- [Install Rust and Cargo via rustup on Linux and macOS](https://www.youtube.com/watch?v=-eZhufkqyLk)
-- [Rust Analyzer hover, autocomplete, and error diagnostics in VS Code](https://www.youtube.com/watch?v=ESbLgIvGd84)
-- [Install and enable Rust Analyzer in VS Code](https://www.youtube.com/watch?v=m-aIWUdA6nY)
-- [Visual Studio Code setup and workspace navigation for Rust](https://www.youtube.com/watch?v=lB5NJLogiw4)
-- [Functional tests: run the app, check the reply #Shorts](https://www.youtube.com/shorts/tLliYT8d9X8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
