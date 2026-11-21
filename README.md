@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Rust ownership: one move, one free #Shorts](https://www.youtube.com/shorts/eHWGuq6KaC4)
-- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=pSV6beho9LE)
-- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=r-RQN3Kh8vI)
-- [Parquet reads less: columns and row groups #Shorts](https://www.youtube.com/shorts/7bkHxBcAKCE)
-- [Event, CDC, real time: trigger your pipeline #Shorts](https://www.youtube.com/shorts/uvZGVuyI3Ws)
-- [Rust development environment setup and Cargo tooling](https://www.youtube.com/watch?v=-rQJvIHyYNs)
-- [Create and configure GitHub Codespaces for Rust development](https://www.youtube.com/watch?v=YxxS9YYlFrM)
+- [Agentic Machine Learning in Rust: new on Coursera #Shorts](https://www.youtube.com/shorts/ygzHLV_SG9Y)
+- [Meet your instructor: Noah Gift | Pragmatic AI Labs](https://www.youtube.com/watch?v=LtWlSz7455w)
+- [TypeScript 7 for Beginners: new on Coursera #Shorts](https://www.youtube.com/shorts/tEjPVe0xfwM)
+- [Security Foundations: new on Coursera #Shorts](https://www.youtube.com/shorts/ZCZcXCK4SVg)
+- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=yYf4N83oCgI)
+- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=5nItuv9fZ04)
+- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=csSlz9gAwx0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
