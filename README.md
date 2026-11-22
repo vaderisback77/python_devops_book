@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Enterprise AI and Data Engineering with Databricks: on Coursera #Shorts](https://www.youtube.com/shorts/ke9lbkV121Q)
+- [It Wasn't Super Intelligence: Pragmatic AI Labs Daily, Episode 1](https://www.youtube.com/watch?v=8rcjW7ZCAX4)
+- [LLM Orchestration and RAG: new on edX #Shorts](https://www.youtube.com/shorts/TVFYN48AvOQ)
+- [AI Productivity and Automation Tools: new on edX #Shorts](https://www.youtube.com/shorts/zwbsfxekUjo)
+- [AI Agent Developer: new on edX #Shorts](https://www.youtube.com/shorts/mmfGycg41Tk)
 - [Agentic Machine Learning in Rust: new on Coursera #Shorts](https://www.youtube.com/shorts/ygzHLV_SG9Y)
 - [Meet your instructor: Noah Gift | Pragmatic AI Labs](https://www.youtube.com/watch?v=LtWlSz7455w)
-- [TypeScript 7 for Beginners: new on Coursera #Shorts](https://www.youtube.com/shorts/tEjPVe0xfwM)
-- [Security Foundations: new on Coursera #Shorts](https://www.youtube.com/shorts/ZCZcXCK4SVg)
-- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=yYf4N83oCgI)
-- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=5nItuv9fZ04)
-- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=csSlz9gAwx0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
