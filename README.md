@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Next-Gen AI Development with Hugging Face: on Coursera #Shorts](https://www.youtube.com/shorts/QOHj1Rnxkmw)
+- [Pragmatic AI Labs Daily: depyler, Python to Rust that compiles and runs](https://www.youtube.com/watch?v=8dLf5e881mc)
+- [Data Pipelines in Rust: new on edX #Shorts](https://www.youtube.com/shorts/-mC42xiCmgM)
+- [Responsible and Local Generative AI: new on edX #Shorts](https://www.youtube.com/shorts/zjgHs-AI3M8)
+- [Pragmatic AI Labs Daily: bashrs, find the bugs in a shell script](https://www.youtube.com/watch?v=BFWmziJgz9s)
+- [Generative AI Development on AWS: new on edX #Shorts](https://www.youtube.com/shorts/EIcD5SkHaR8)
 - [Enterprise AI and Data Engineering with Databricks: on Coursera #Shorts](https://www.youtube.com/shorts/ke9lbkV121Q)
-- [It Wasn't Super Intelligence: Pragmatic AI Labs Daily, Episode 1](https://www.youtube.com/watch?v=8rcjW7ZCAX4)
-- [LLM Orchestration and RAG: new on edX #Shorts](https://www.youtube.com/shorts/TVFYN48AvOQ)
-- [AI Productivity and Automation Tools: new on edX #Shorts](https://www.youtube.com/shorts/zwbsfxekUjo)
-- [AI Agent Developer: new on edX #Shorts](https://www.youtube.com/shorts/mmfGycg41Tk)
-- [Agentic Machine Learning in Rust: new on Coursera #Shorts](https://www.youtube.com/shorts/ygzHLV_SG9Y)
-- [Meet your instructor: Noah Gift | Pragmatic AI Labs](https://www.youtube.com/watch?v=LtWlSz7455w)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
