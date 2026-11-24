@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Mastering GitHub: on Coursera #Shorts](https://www.youtube.com/shorts/SvDtVYF17gc)
+- [MLOps and LLMOps: new on edX #Shorts](https://www.youtube.com/shorts/p_XBM4b_tno)
+- [Nvidia Could Be Enron: Five Warning Signs | Pragmatic AI Labs Daily](https://www.youtube.com/watch?v=Zu__NvWEPQc)
+- [Data Engineering with Python and Linux: new on edX #Shorts](https://www.youtube.com/shorts/TwzbuAx9GMg)
+- [Rust for Python Developers: Fast, Provable Code: new on edX #Shorts](https://www.youtube.com/shorts/ht6f7POddOc)
 - [Next-Gen AI Development with Hugging Face: on Coursera #Shorts](https://www.youtube.com/shorts/QOHj1Rnxkmw)
 - [Pragmatic AI Labs Daily: depyler, Python to Rust that compiles and runs](https://www.youtube.com/watch?v=8dLf5e881mc)
-- [Data Pipelines in Rust: new on edX #Shorts](https://www.youtube.com/shorts/-mC42xiCmgM)
-- [Responsible and Local Generative AI: new on edX #Shorts](https://www.youtube.com/shorts/zjgHs-AI3M8)
-- [Pragmatic AI Labs Daily: bashrs, find the bugs in a shell script](https://www.youtube.com/watch?v=BFWmziJgz9s)
-- [Generative AI Development on AWS: new on edX #Shorts](https://www.youtube.com/shorts/EIcD5SkHaR8)
-- [Enterprise AI and Data Engineering with Databricks: on Coursera #Shorts](https://www.youtube.com/shorts/ke9lbkV121Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
