@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AI Assisted Coding Workflows: new on Coursera #Shorts](https://www.youtube.com/shorts/oiosdePlEXg)
+- [Rust Foundations: new on Coursera #Shorts](https://www.youtube.com/shorts/F_-I8x6TcWY)
+- [Agents and Deterministic LLM Systems: new on Coursera #Shorts](https://www.youtube.com/shorts/7egSHq7POGo)
+- [Cloud Computing: Foundations to ML: new on edX #Shorts](https://www.youtube.com/shorts/XRczd2E25XI)
 - [Mastering GitHub: on Coursera #Shorts](https://www.youtube.com/shorts/SvDtVYF17gc)
 - [MLOps and LLMOps: new on edX #Shorts](https://www.youtube.com/shorts/p_XBM4b_tno)
 - [Nvidia Could Be Enron: Five Warning Signs | Pragmatic AI Labs Daily](https://www.youtube.com/watch?v=Zu__NvWEPQc)
-- [Data Engineering with Python and Linux: new on edX #Shorts](https://www.youtube.com/shorts/TwzbuAx9GMg)
-- [Rust for Python Developers: Fast, Provable Code: new on edX #Shorts](https://www.youtube.com/shorts/ht6f7POddOc)
-- [Next-Gen AI Development with Hugging Face: on Coursera #Shorts](https://www.youtube.com/shorts/QOHj1Rnxkmw)
-- [Pragmatic AI Labs Daily: depyler, Python to Rust that compiles and runs](https://www.youtube.com/watch?v=8dLf5e881mc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
