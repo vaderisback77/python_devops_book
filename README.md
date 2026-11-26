@@ -99,13 +99,13 @@ Updates on new material post book release.
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Building AI Applications: new on Coursera #Shorts](https://www.youtube.com/shorts/4xevvweJp5I)
+- [Rust webinar: from zero to a working Rust setup in VS Code](https://www.youtube.com/watch?v=r-RQN3Kh8vI)
+- [Data Pipelines with Rust: new on Coursera #Shorts](https://www.youtube.com/shorts/jlNqTWiBysg)
+- [Generative AI on AWS with Bedrock: new on Coursera #Shorts](https://www.youtube.com/shorts/6s_InxlWy0o)
+- [Databases From Zero: new on Coursera #Shorts](https://www.youtube.com/shorts/2b-hVCR4PFw)
 - [AI Assisted Coding Workflows: new on Coursera #Shorts](https://www.youtube.com/shorts/oiosdePlEXg)
 - [Rust Foundations: new on Coursera #Shorts](https://www.youtube.com/shorts/F_-I8x6TcWY)
-- [Agents and Deterministic LLM Systems: new on Coursera #Shorts](https://www.youtube.com/shorts/7egSHq7POGo)
-- [Cloud Computing: Foundations to ML: new on edX #Shorts](https://www.youtube.com/shorts/XRczd2E25XI)
-- [Mastering GitHub: on Coursera #Shorts](https://www.youtube.com/shorts/SvDtVYF17gc)
-- [MLOps and LLMOps: new on edX #Shorts](https://www.youtube.com/shorts/p_XBM4b_tno)
-- [Nvidia Could Be Enron: Five Warning Signs | Pragmatic AI Labs Daily](https://www.youtube.com/watch?v=Zu__NvWEPQc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ### Kennedy Behrman
